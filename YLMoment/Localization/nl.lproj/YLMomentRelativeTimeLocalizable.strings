@@ -3,19 +3,19 @@
   YLMomentTests
 
   Created by Pieter Claerhout on 08/11/2013.
-  Translation comes from the moment.js project. Learn more at http://momentjs.com
+  Translation comes from the http://momemt.js project.
 */
 
 "future" = "binnen %@";
 "past"   = "%@ geleden";
 "s"      = "enkele seconden";
-"m"      = "een minuut";
+"m"      = "1 minuut";
 "mm"     = "%d minuten";
-"h"      = "een uur";
+"h"      = "1 uur";
 "hh"     = "%d uren";
-"d"      = "een dag";
+"d"      = "1 dag";
 "dd"     = "%d dagen";
-"M"      = "een maand";
+"M"      = "1 maand";
 "MM"     = "%d maand";
-"y"      = "een jaar";
+"y"      = "1 jaar";
 "yy"     = "%d jaar";

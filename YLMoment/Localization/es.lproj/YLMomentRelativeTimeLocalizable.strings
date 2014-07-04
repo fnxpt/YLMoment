@@ -3,19 +3,19 @@
   YLMoment
 
   Created by YannickL on 27/10/2013.
-  Translation comes from the moment.js project. Learn more at http://momentjs.com
+  Translation comes from the http://momemt.js project.
 */
 
 "future" = "en %@";
 "past"   = "hace %@";
 "s"      = "unos segundos";
-"m"      = "un minuto";
+"m"      = "1 minuto";
 "mm"     = "%d minutos";
-"h"      = "una hora";
+"h"      = "1 hora";
 "hh"     = "%d horas";
-"d"      = "un día";
+"d"      = "1 día";
 "dd"     = "%d días";
-"M"      = "un mes";
+"M"      = "1 mes";
 "MM"     = "%d meses";
-"y"      = "un año";
+"y"      = "1 año";
 "yy"     = "%d años";

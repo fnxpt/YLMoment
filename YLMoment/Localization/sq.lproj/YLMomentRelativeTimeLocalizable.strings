@@ -3,19 +3,19 @@
   YLMoment
 
   Created by YannickL on 27/10/2013.
-  Translation comes from the moment.js project. Learn more at http://momentjs.com
+  Translation comes from the http://momemt.js project.
 */
 
 "future" = "në %@";
 "past"   = "%@ me parë";
 "s"      = "disa sekonda";
-"m"      = "një minut";
+"m"      = "1 minut";
 "mm"     = "%d minuta";
-"h"      = "një orë";
+"h"      = "1 orë";
 "hh"     = "%d orë";
-"d"      = "një ditë";
+"d"      = "1 ditë";
 "dd"     = "%d ditë";
-"M"      = "një muaj";
+"M"      = "1 muaj";
 "MM"     = "%d muaj";
-"y"      = "një vit";
+"y"      = "1 vit";
 "yy"     = "%d vite";
